@@ -1,0 +1,6 @@
+import React, { Component } from "react";
+function Rentals() {
+  return <h1>Rentals</h1>;
+}
+
+export default Rentals;
