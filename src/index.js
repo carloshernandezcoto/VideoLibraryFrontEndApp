@@ -7,7 +7,7 @@ import reportWebVitals from "./reportWebVitals";
 import "bootstrap/dist/css/bootstrap.css";
 import "font-awesome/css/font-awesome.css";
 
-console.log("SUPERLABEL", process.env.REACT_APP_NAME);
+console.log("SUPERLABEL", process.env.REACT_APP_API_URL);
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
