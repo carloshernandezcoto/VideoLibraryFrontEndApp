@@ -4,3 +4,7 @@ https://git.heroku.com/video-rental-frontend-app.git
 
 Before pushing new files to Heroku, the following command needs to be run. This is because the buildpack used to create the app is deprecated and Heroku 22 won't support it(https://github.com/mars/create-react-app-buildpack).
 heroku stack:set heroku-20
+
+
+***************************************************************************************************
+New address on Cyclic: https://perfect-dress-deer.cyclic.app
