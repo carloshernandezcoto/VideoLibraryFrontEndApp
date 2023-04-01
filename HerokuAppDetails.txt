@@ -7,4 +7,4 @@ heroku stack:set heroku-20
 
 
 ***************************************************************************************************
-New address on Cyclic: https://perfect-dress-deer.cyclic.app
+New address on Render: https://video-rental-frontend-app.onrender.com
