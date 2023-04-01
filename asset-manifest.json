@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VideoLibraryFrontEndApp/static/css/main.6a0f3f6c.css",
-    "main.js": "/VideoLibraryFrontEndApp/static/js/main.6e970102.js",
+    "main.js": "/VideoLibraryFrontEndApp/static/js/main.64635684.js",
     "static/js/787.fba8e351.chunk.js": "/VideoLibraryFrontEndApp/static/js/787.fba8e351.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/VideoLibraryFrontEndApp/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/VideoLibraryFrontEndApp/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,11 +10,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/VideoLibraryFrontEndApp/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/VideoLibraryFrontEndApp/index.html",
     "main.6a0f3f6c.css.map": "/VideoLibraryFrontEndApp/static/css/main.6a0f3f6c.css.map",
-    "main.6e970102.js.map": "/VideoLibraryFrontEndApp/static/js/main.6e970102.js.map",
+    "main.64635684.js.map": "/VideoLibraryFrontEndApp/static/js/main.64635684.js.map",
     "787.fba8e351.chunk.js.map": "/VideoLibraryFrontEndApp/static/js/787.fba8e351.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a0f3f6c.css",
-    "static/js/main.6e970102.js"
+    "static/js/main.64635684.js"
   ]
 }
