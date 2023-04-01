@@ -43,6 +43,10 @@ class App extends Component {
             <Route path="/register/" element={<RegisterForm />} />
             <Route path="/rentals/" element={<Rentals />} />
             <Route path="/not-found" element={<NotFound />} />
+            <Route
+              path="/VideoLibraryFrontEndApp/"
+              element={<Navigate to="/movies" />}
+            />
             <Route path="/" element={<Navigate to="/movies" />} />
             <Route path="*" element={<Navigate to="/not-found" replace />} />
           </Routes>

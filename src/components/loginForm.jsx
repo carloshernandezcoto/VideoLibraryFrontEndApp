@@ -18,7 +18,8 @@ class LoginForm extends Form {
   doSubmit = async () => {
     try {
       await auth.login(this.state.data.username, this.state.data.password);
-      window.location = this.props.from ? this.props.from.pathname : "/";
+      //window.location = this.props.from ? this.props.from.pathname : "/";
+      window.location = "/";
       //this.props.navigate("/", { replace: true });
     } catch (ex) {
       if (ex.response && ex.response.status === 400) {
